@@ -1,12 +1,11 @@
 
 
-	Charicha Computer Store
-	Charicha Susaankhya Store 
-=================================
+Charicha Computer Store / Charicha Susaankhya Store 
+===================================================
 
         Charicha Store kind of cliche but easy to say, align with everything
-        but that's the bad part
-	too symetrical for something we want to have dynamic of..
+        but that's the bad part too symetrical for something we want to have
+	dynamic of..
 
 	Charicha Susaankhya Store
 	Will Susaankhya add any market value, outstand the crowd?
