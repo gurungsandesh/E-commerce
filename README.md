@@ -3,13 +3,12 @@
 Charicha Computer Store / Charicha Susaankhya Store 
 ===================================================
 
-        Charicha Store kind of cliche but easy to say, align with everything
-        but that's the bad part too symetrical for something we want to have
-	dynamic of..
+      Charicha Store kind of cliche but easy to say, align with everything
+      but that's the bad part too symetrical for something we want to havedynamic of..
 
-	Charicha Susaankhya Store
-	Will Susaankhya add any market value, outstand the crowd?
-	Will Susaankhya be joke, be difficult to pronunce?
+      Charicha Susaankhya Store
+      Will Susaankhya add any market value, outstand the crowd?
+      Will Susaankhya be joke, be difficult to pronunce?
 
 	
 
