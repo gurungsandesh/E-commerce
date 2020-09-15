@@ -1,9 +1,8 @@
 
 
-
-================================================================================
-	Charicha Computer Store / Charicha Susaankhya Store 
-================================================================================
+	Charicha Computer Store
+	Charicha Susaankhya Store 
+=================================
 
         Charicha Store kind of cliche but easy to say, align with everything
         but that's the bad part
