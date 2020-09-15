@@ -17,6 +17,7 @@
 
 
 Color Scheme
+============
     --text-primary:   #ffffff;
     --text-secondary: #33FFFF;	/* We'll need to think more about this, this is 
 				   for some kind of highlight elements */
